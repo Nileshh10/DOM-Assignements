@@ -60,6 +60,12 @@
 
 ![Output](./images/Pic5.png)
 
+### Solution
+
+![dom 3 otpt](./images/dom%20q%203%20otpt.png)
+
+![dom 3 ](./images/dom%20q%203.png)
+
 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
 ### Topics
@@ -77,6 +83,15 @@
 ### Output
 
 ![Output](./images/Pic7.png)
+
+### Solution
+
+![dom 4 otot](./images/dom%204%20otpt.png)
+
+```JS
+let ph = document.querySelector(".service-number");
+ph.innerText = "+91-7389002861";
+```
 
 5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
 
@@ -96,6 +111,12 @@
 
 ![Output](./images/Pic9.png)
 
+### Solution
+
+![dom 5 otot](./images/dom%205.png)
+
+![dom 5 ](./images/dom%205%20c.png)
+
 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
 
 ### Topics
@@ -113,6 +134,12 @@
 ### Output
 
 ![Output](./images/Pic11.png)
+
+### Solution
+
+![dom 6 otot](./images/dom%206%20otpt.png)
+
+![dom 6 ](./images/dom%206.png)
 
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
@@ -132,6 +159,18 @@
 ### Output
 
 ![Output](./images/Pic13.png)
+
+### Solution
+
+![dom 7 ](./images/dom%207%20otpt.png)
+
+```JS 
+let form = document.getElementById("hp-search-form");
+
+form.querySelector("input").value = "CSS Selector";
+
+form.submit();
+```
 
 8. Webiste Name: [Google](https://www.google.com/)
 
