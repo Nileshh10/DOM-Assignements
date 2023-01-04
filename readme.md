@@ -190,6 +190,11 @@ form.submit();
 
 ![Output](./images/Pic15.png)
 
+### Solution
+
+![dom 8 otpt ](./images/dom%208%20otpt.png)
+![dom 8](./images/g.png)
+
 9. Webiste Name: [Code Wars](https://www.codewars.com/)
 
 ### Topics
@@ -226,6 +231,14 @@ form.submit();
 
 ![Output](./images/Pic19.png)
 
+### Solution
+
+![dom 10 otpt](./images/dom%2010%20otpt.png)
+
+![dom 10 c](./images/dom%2010%20c.png)
+OR
+![dom 10 c1](./images/dom%2010%20c1.png)
+
 11. Webiste Name: [realme](https://www.realme.com/in/)
 
 ### Topics
@@ -244,6 +257,10 @@ form.submit();
 
 ![Output](./images/Pic21.png)
 
+### Solution
+
+![dom 11 c](./images/dom%2011%20c.png)
+
 12. Webiste Name: [Github](https://github.com/)
 
 ### Topics
@@ -261,6 +278,10 @@ form.submit();
 ### Output
 
 ![Output](./images/Pic23.png)
+
+### Solution
+
+![dom 12](./images/dom%2012%20.png)
 
 13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
 
